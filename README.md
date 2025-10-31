@@ -43,4 +43,6 @@
   </div>
 </body>
 </html>
-
+/ (repo kökü)
+  index.html 
+ 200.html, favicon.ico, README.md
