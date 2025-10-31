@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Ad Soyad — Bağlantılar</title>
+  <title>Davud ELKOL — Bağlantılar</title>
   <meta name="description" content="Ad Soyad | Unvan / Titre | İletişim ve bağlantılar">
   <link rel="icon" href="favicon.ico">
   <style>
