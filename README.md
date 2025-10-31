@@ -3,7 +3,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Davud ELKOL — Bağlantılar</title>
-  <meta name="description" content="Davud ELKOL | Unvan / Titre | İletişim ve bağlantılar">
+  <meta name="description" content="Davud ELKOL | Menuiserie PVC & Aluminium / Clôture & Grillage | İletişim ve bağlantılar">
   <style>
     :root { --bg:#0f172a; --card:#111827; --txt:#e5e7eb; --muted:#94a3b8; }
     html,body { height:100%; margin:0; }
@@ -30,12 +30,12 @@
   <div class="wrap">
     <div class="card" role="main">
       <h1>Davud ELKOL</h1>
-      <div class="title">Menuiserie PVC & Aluminium / Clôture & grillage</div>
+      <div class="title">Menuiserie PVC & Aluminium / Clôture & Grillage</div>
       <div class="btns">
-        <a class="btn" href="https://site1.example.com" target="_blank" rel="noopener">🌐 www.fenetreturquie.com</a>
-        <a class="btn secondary" href="https://site2.example.com" target="_blank" rel="noopener">🌐 www.europafence.com</a>
-        <a class="btn dark" href="mailto:mail@ornek.com">✉️ davduelkol@gmail.com</a>
-        <a class="btn dark" href="tel:+905XXXXXXXXX">📞 Ara: +90 555 188 67 42</a>
+        <a class="btn" href="https://fenetreturquie.com" target="_blank" rel="noopener">🌐 www.fenetreturquie.com</a>
+        <a class="btn secondary" href="https://europafence.com" target="_blank" rel="noopener">🌐 www.europafence.com</a>
+        <a class="btn dark" href="mailto:davudelkol@gmail.com">✉️ davudelkol@gmail.com</a>
+        <a class="btn dark" href="tel:+905551886742">📞 Ara: +90 555 188 67 42</a>
       </div>
       <p class="small">Bu sayfayı yer imlerine ekleyin veya ana ekrana kaydedin.</p>
     </div>
