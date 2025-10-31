@@ -30,12 +30,12 @@
   <div class="wrap">
     <div class="card" role="main">
       <h1>Davud ELKOL</h1>
-      <div class="title">Unvan / Titre</div>
+      <div class="title">Menuiserie PVC & Aluminium / Clôture & grillage</div>
       <div class="btns">
-        <a class="btn" href="https://site1.example.com" target="_blank" rel="noopener">🌐 Site Web 1</a>
-        <a class="btn secondary" href="https://site2.example.com" target="_blank" rel="noopener">🌐 Site Web 2</a>
-        <a class="btn dark" href="mailto:mail@ornek.com">✉️ E-posta Gönder</a>
-        <a class="btn dark" href="tel:+905XXXXXXXXX">📞 Ara: +90 5XX XXX XX XX</a>
+        <a class="btn" href="https://site1.example.com" target="_blank" rel="noopener">🌐 www.fenetreturquie.com</a>
+        <a class="btn secondary" href="https://site2.example.com" target="_blank" rel="noopener">🌐 www.europafence.com</a>
+        <a class="btn dark" href="mailto:mail@ornek.com">✉️ davduelkol@gmail.com</a>
+        <a class="btn dark" href="tel:+905XXXXXXXXX">📞 Ara: +90 555 188 67 42</a>
       </div>
       <p class="small">Bu sayfayı yer imlerine ekleyin veya ana ekrana kaydedin.</p>
     </div>
