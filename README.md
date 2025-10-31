@@ -1,4 +1,4 @@
-[index.html](https://github.com/user-attachments/files/23262139/index.html)
+[index.html][(https://github.com/user-attachments/files/23262139/index.html)](https://regal-sherbet-a1f900.netlify.app/)
 <!doctype html>
 <html lang="tr">
 <head>
