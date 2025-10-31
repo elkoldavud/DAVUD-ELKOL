@@ -29,7 +29,7 @@
 <body>
   <div class="wrap">
     <div class="card" role="main">
-      <h1>Ad Soyad</h1>
+      <h1>Davud ELKOL</h1>
       <div class="title">Unvan / Titre</div>
       <div class="btns">
         <a class="btn" href="https://site1.example.com" target="_blank" rel="noopener">🌐 Web Site 1</a>
